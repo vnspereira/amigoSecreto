@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(6, 182, 159, 0.513);
+    text-align: center;
+}
+
+#titulo{
+    color: rgb(0, 0, 0, 0.534);
+    font-size: 45px;
+}
+
+#titulo2{
+    color: rgba(0, 0, 0, 0.534);
+    font-size: 30px;
+}
+#botao2{
+    margin-top: 40px;
+}
+input {
+    padding: 7px; 
+    border-radius: 5px;
+}
